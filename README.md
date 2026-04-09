@@ -1,6 +1,6 @@
 # Sales Performance & Profitability Dashboard
 
- Project Overview
+## Project Overview
 This project presents an interactive Tableau dashboard analyzing sales performance and profitability across different categories and regions.
 
 ## Key Features
